@@ -32,7 +32,7 @@ myAudio.play();
 $canzone='24.12.2017';
 $canzone2='25.12.2017';
 
-/* Acquisisco in una variabile la data
+/* Acquisisco in una variabile la data */
 $today = date("d.m.o");
 
 /* Se soddisfa la condizione, in tale giorno produce una determinata canzone */
